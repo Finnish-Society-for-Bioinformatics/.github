@@ -17,7 +17,8 @@ group, or a company, we warmly welcome you to join our community and be part of
 this bioinformatics network.
 
 Follow us on
-[LinkedIn](https://linkedin.com/company/finnish-society-for-bioinformatics/):
+[LinkedIn](https://linkedin.com/company/finnish-society-for-bioinformatics/).
+
 Watch our webinars on
 [YouTube](https://www.youtube.com/@FinnishBioinformaticsSociety).
 
