@@ -9,7 +9,7 @@ opportunities for our members, and host networking and collaboration events.
 Every two years, we proudly recognize outstanding work through our Best
 Bioinformatics Thesis Award.
 
-Our monthly BioEvening gatherings in Helsinki, Turku, and Tampere offer a
+Our monthly BioBeer gatherings in Helsinki, Turku, Tampere, and Oulu offer a
 relaxed way to meet and connect with fellow bioinformaticians.
 
 Whether you're an experienced researcher, an early-career student, a research
