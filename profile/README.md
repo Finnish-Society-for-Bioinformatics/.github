@@ -24,3 +24,6 @@ Watch our webinars on
 
 Feel free to [email us](mailto:fsfbioinf@gmail.com) anytime, we'd love to hear
 from you!
+
+Check out our [Codeberg
+organization](https://codeberg.org/Finnish-Society-for-Bioinformatics)!
